@@ -1,4 +1,3 @@
-# Airtel-Customer-Churn-Analysis
 # Airtel Customer Churn Analysis (Tableau Dashboard)
 
 ## 📊 Project Overview
