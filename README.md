@@ -80,8 +80,8 @@ Telco Customer Churn Dataset (public telecom churn dataset)
 **Kartik Bansal**  
 Aspiring Data Analyst | Tableau | Power BI | SQL | Python  
 
-📌 GitHub: https://github.com/your-username  
-📌 LinkedIn: *(optional but recommended)*
+📌 GitHub: https://github.com/KartikBansal2004  
+📌 LinkedIn: www.linkedin.com/in/kartikbansal1980
 
 ---
 
