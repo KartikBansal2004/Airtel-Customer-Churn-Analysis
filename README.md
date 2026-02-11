@@ -41,4 +41,49 @@ This dashboard helps answer questions like:
 ---
 
 ## 📂 Project Structure
+Airtel-Customer-Churn-Analysis/
+│
+├── dashboard/
+│ └── Airtel_Customer_Churn.twbx
+│
+├── data/
+│ └── Telco-Customer-Churn.xlsx
+│
+├── images/
+│ └── dashboard_preview.png
+│
+└── README.md
 
+---
+
+
+---
+
+## 🖼 Dashboard Preview
+![Dashboard Preview](images/dashboard_preview.png)
+
+---
+
+## 🚀 How to Use
+1. Download the `.twbx` file from the `dashboard` folder
+2. Open it using **Tableau Desktop** or **Tableau Reader**
+3. Explore filters and interactive visuals for deeper insights
+
+---
+
+## 📌 Dataset Source
+Telco Customer Churn Dataset (public telecom churn dataset)
+
+---
+
+## 👤 Author
+**Kartik Bansal**  
+Aspiring Data Analyst | Tableau | Power BI | SQL | Python  
+
+📌 GitHub: https://github.com/your-username  
+📌 LinkedIn: *(optional but recommended)*
+
+---
+
+## ⭐ Feedback
+If you like this project, feel free to ⭐ star the repository and share feedback!
