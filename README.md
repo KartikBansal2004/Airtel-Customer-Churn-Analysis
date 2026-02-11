@@ -60,7 +60,7 @@ Airtel-Customer-Churn-Analysis/
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview]([images/dashboard_preview.png](https://shorturl.at/1BKN4))
+![Dashboard Preview](https://shorturl.at/1BKN4)
 
 ---
 
